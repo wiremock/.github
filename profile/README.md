@@ -1,6 +1,6 @@
 ## Welcome to WireMock 👋
 
-[![Website](https://img.shields.io/static/v1?label=Website&message=keptn.sh&color=blue)](https://wiremock.org/)
+[![Website](https://img.shields.io/static/v1?label=Website&message=wiremock.org&color=blue)](https://wiremock.org/)
 [![Docs](https://img.shields.io/static/v1?label=Documentation&message=public&color=green)](https://wiremock.org/docs/)
 [![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](https://join.slack.com/t/wiremock-community/shared_invite/zt-1mkbo0zlx-gxeZdTJ15Kchdt888Fn_1A)
 [![Participate](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/wiremock/wiremock/blob/master/CONTRIBUTING.md)
