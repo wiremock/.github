@@ -10,7 +10,7 @@ There are also vendors that provide commercial support for WireMock.
 ## WireMock Community
 
 If you’re looking for help or advice,
-you can find a community of users and contributors on the WireMock community Slack or mailing list.
+you can find a community of users and contributors on the WireMock community Slack channels.
 Stack Overflow also has many good WireMock questions and answers.
 
 Note that all the community channels are maintained without a Service Level Agreement (SLA).
@@ -19,7 +19,6 @@ Every community member is welcome
 
 - [WireMock Slack](https://join.slack.com/t/wiremock-community/shared_invite/zt-1mkbo0zlx-gxeZdTJ15Kchdt888Fn_1A),
 in particular the `#setup` and `#general` channels.
-- [User Mailing List](https://groups.google.com/forum/#!forum/wiremock-user)
 - [WireMock tag on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock)
 
 ## Commercial support and consulting
