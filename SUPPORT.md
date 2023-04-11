@@ -17,7 +17,7 @@ Note that all the community channels are maintained without a Service Level Agre
 All responses are provided by community members, and it is a best effort.
 Every community member is welcome 
 
-- [WireMock Slack](https://join.slack.com/t/wiremock-community/shared_invite/zt-1mkbo0zlx-gxeZdTJ15Kchdt888Fn_1A),
+- [WireMock Slack](http://slack.wiremock.org/),
 in particular the `#setup` and `#general` channels.
 - [WireMock tag on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock)
 
