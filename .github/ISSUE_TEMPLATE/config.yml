@@ -4,7 +4,7 @@ contact_links:
     url: http://slack.wiremock.org/
     about: |
       You can ask questions on the community Slack in the '#help' or '#help-contributing' channels.
-      Please do not raise GitHub issues for that, and keep in mind there is no SLA.
+      Please do not raise GitHub issues for questions.
   - name: '📚 Knowledge Base on StackOverflow'
     url: https://stackoverflow.com/questions/tagged/wiremock
     about: |
