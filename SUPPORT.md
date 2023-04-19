@@ -20,6 +20,8 @@ Every community member is welcome to participate, help to triage and answer the 
 - [WireMock Community Slack](http://slack.wiremock.org/) provides the `#help` channel for Q&A
 - [As a question on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock), use the `wiremock` tag
 
+If you're looking for material to help you practice using WireMock on your own machine, in your own time, [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/) maintains an open source workshop on WireMock that is free for all to use: https://github.com/basdijkstra/wiremock-workshop
+
 ## Commercial support, trainings and consulting
 
 ### WireMock Cloud - Priority Support
@@ -32,5 +34,6 @@ You can find more info about WireMock Cloud support plans [here](https://www.wir
 
 ### Other commercial options / Add yours
 
-Other commercial options are not documented at the moment.
-Any company or individual consultant are welcome to submit a pull request and to extend information on this page.
+[Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/) is an independent consultant providing in-company training and workshops in WireMock, both on-site and online. You can find more information about his services and get in touch with him [on his website](https://www.ontestautomation.com).  
+
+Any other company or individual consultant are welcome to submit a pull request and to extend information on this page.
