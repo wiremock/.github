@@ -23,9 +23,10 @@ in particular the `#setup` and `#general` channels.
 
 ## Commercial support and consulting
 
-### Priority Support by WireMock Inc
+### WireMock Cloud - Priority Support
 
-WireMock Inc offers priority support with a guaranteed SLA as part the [WireMock Cloud](https://www.wiremock.io/) Enterprise plan.
+For users of the [WireMock Cloud](https://www.wiremock.io/) service,
+WireMock Inc offers priority support with a guaranteed SLA as part the Enterprise subscription plan.
 You can find more info about WireMock Cloud support plans [here](https://www.wiremock.io/pricing).
 
 [Get in touch with our team](https://share-eu1.hsforms.com/1YSKnSP93Tsig1JoO3lXSawfbdiq) to discuss options or get a demo.
