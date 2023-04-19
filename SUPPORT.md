@@ -15,13 +15,12 @@ Stack Overflow also has many good WireMock questions and answers.
 
 Note that all the community channels are maintained without a Service Level Agreement (SLA).
 All responses are provided by community members, and it is a best effort.
-Every community member is welcome 
+Every community member is welcome to participate, help to triage and answer the questions.
 
-- [WireMock Slack](http://slack.wiremock.org/),
-in particular the `#setup` and `#general` channels.
-- [WireMock tag on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock)
+- [WireMock Community Slack](http://slack.wiremock.org/) provides the `#help` channel for Q&A
+- [As a question on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock), use the `wiremock` tag
 
-## Commercial support and consulting
+## Commercial support, trainings and consulting
 
 ### WireMock Cloud - Priority Support
 
@@ -31,7 +30,7 @@ You can find more info about WireMock Cloud support plans [here](https://www.wir
 
 [Get in touch with our team](https://share-eu1.hsforms.com/1YSKnSP93Tsig1JoO3lXSawfbdiq) to discuss options or get a demo.
 
-### Other commercial options
+### Other commercial options / Add yours
 
 Other commercial options are not documented at the moment.
 Any company or individual consultant are welcome to submit a pull request and to extend information on this page.
