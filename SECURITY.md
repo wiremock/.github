@@ -17,7 +17,7 @@ and the common Request for Enhancement issue report should be used.
 
 ## How to report an issue?
 
-Most of WireMock repositories use the _Security Advisory Advisory_ portal
+Most of WireMock repositories use the _GitHub Security Advisory_ engine
 under the _Security_ tab for issue reporting.
 Use it to submit the vulnerability reports,
 and only maintainers will be able to see and triage your reports.
