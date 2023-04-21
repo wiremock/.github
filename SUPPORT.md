@@ -36,6 +36,13 @@ You can find more info about WireMock Cloud support plans [here](https://www.wir
 [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/) is an independent consultant providing in-company training and workshops in WireMock, both on-site and online. You can find more information about his services and get in touch with him [on his website](https://www.ontestautomation.com).  
 If you're looking for material to help you practice using WireMock on your own machine, in your own time, [Bas Dijkstra](https://www.linkedin.com/in/basdijkstra/) also maintains an open source workshop on WireMock that is free for all to use: https://github.com/basdijkstra/wiremock-workshop
 
+### WireMocha - Integration for JetBrains IDEs
+
+WireMocha is a plugin for IntelliJ based IDEs, and has tools for WireMock specific code analysis, code generation,
+JSON and Java side stubbing, and other features to overall simplify the work with WireMock.
+
+It is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/18860-wiremocha) for a 30-day trial and for purchase. If you have any question, feature request or bug report, you can raise them in its [GitHub repository](https://github.com/picimako/wiremocha).
+
 ### Other commercial options / Add yours
 
 Any other company or individual consultant are welcome to submit a pull request and to extend information on this page.
