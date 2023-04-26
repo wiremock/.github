@@ -38,10 +38,17 @@ If you're looking for material to help you practice using WireMock on your own m
 
 ### WireMocha - Integration for JetBrains IDEs
 
-WireMocha is a plugin for IntelliJ based IDEs, and has tools for WireMock specific code analysis, code generation,
-JSON and Java side stubbing, and other features to overall simplify the work with WireMock.
+WireMocha is a plugin for IntelliJ based IDEs, and has tools for WireMock specific static code analysis (in the Java and JSON DSLs), code generation, stubbing, and many others to overall simplify the work with WireMock.
 
-It is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/18860-wiremocha) for a 30-day trial and for purchase. If you have any question, feature request or bug report, you can raise them in its [GitHub repository](https://github.com/picimako/wiremocha).
+Two prominent code generation features, beside a handful of smaller ones, can help you:
+- generate a scenario's Java and JSON stub implementations by simply modeling its states and transitions in a dedicated tool window,
+- generate and preview the Java version of JSON stub mappings on-the-fly during editing JSON mapping files. It can speed
+up migration from JSON to Java implementation.
+
+JSON schemas are also associated to JSON mapping files, and are joined with various language injections. They provide additional syntax highlighting (e.g. Handlebars, XPath, ...) and validation, as well as code completion that can greatly speed up the implementation and maintenance of JSON mapping files.
+
+The plugin is available on the [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/18860-wiremocha) for a 30-day trial and for purchase.
+You can raise your questions, feature requests or bug reports on [GitHub](https://github.com/picimako/wiremocha), and browse its documentation [here](https://www.picimako.com/wiremocha/).
 
 ### Other commercial options / Add yours
 
