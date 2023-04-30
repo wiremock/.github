@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/static/v1?label=Website&message=wiremock.org&color=blue)](https://wiremock.org/)
 [![Docs](https://img.shields.io/static/v1?label=Documentation&message=public&color=green)](https://wiremock.org/docs/)
-[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](http://slack.wiremock.org/)
+[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](https://slack.wiremock.org/)
 [![Participate](https://img.shields.io/static/v1?label=Contributing&message=guide&color=blue)](https://github.com/wiremock/wiremock/blob/master/CONTRIBUTING.md)
 
 WireMock is a free and open source tool for building and testing mock APIs.
