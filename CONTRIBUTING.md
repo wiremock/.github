@@ -1,6 +1,6 @@
 # Contributing to WireMock
 
-[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](http://slack.wiremock.org/)
+[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](https://slack.wiremock.org/)
 
 WireMock exists and continues to thrive due to the efforts of over 150 contributors,
 and we continue to welcome contributions to its evolution.
@@ -16,7 +16,7 @@ there're opportunities to participate and help the project!
 
 ## Community Slack
 
-If you are interested in contributing, please join us on the [WireMock Community Slack](http://slack.wiremock.org/).
+If you are interested in contributing, please join us on the [WireMock Community Slack](https://slack.wiremock.org/).
 There is a `#help-contributing` channel where you can ask any questions about contributing and get help from the community members.
 
 ## Key links
