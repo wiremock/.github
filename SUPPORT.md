@@ -25,6 +25,12 @@ Every community member is welcome to participate, help to triage and answer the 
 
 ### WireMock Cloud - Priority Support
 
+Built on WireMock, [WireMock Cloud](https://www.wiremock.io/) offers a hosted experience
+including a self-service UI, enterprise support, and unlimited scale.
+Key features, in addition to all WireMock capabilities,
+include support for manual and automated testing,
+importing APIs from OpenAPI and Swagger, and Chaos Engineering.
+
 For users of the [WireMock Cloud](https://www.wiremock.io/) service,
 WireMock Inc offers priority support with a guaranteed SLA as part the Enterprise subscription plan.
 You can find more info about WireMock Cloud support plans [here](https://www.wiremock.io/pricing).
