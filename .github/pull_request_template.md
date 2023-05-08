@@ -8,7 +8,7 @@
 
 ## Submitter checklist
 
-- [ ] The PR request is well described, including the body and the references
+- [ ] The PR request is well described and justified, including the body and the references
 - [ ] The PR title represents the desired changelog entry
 - [ ] The repository's code style is followed (see the contributing guide)
 - [ ] Test coverage that demonstrates that the change works as expected
