@@ -12,8 +12,7 @@
 - [ ] The PR title represents the desired changelog entry
 - [ ] The repository's code style is followed (see the contributing guide)
 - [ ] Test coverage that demonstrates that the change works as expected
-- [ ] For new features, there's necessary documentation in this pull request
-  or in a subsequent PR to [wiremock.org](https://github.com/wiremock/wiremock.org)
+- [ ] For new features, there's necessary documentation in this pull request or in a subsequent PR to [wiremock.org](https://github.com/wiremock/wiremock.org)
 
 <!--
 Put an `x` into the [ ] to show you have filled the information.
