@@ -5,7 +5,7 @@ description: 'Create a bug report to help us improve'
 body:
   - type: markdown
     attributes:
-      value: |
+      value: >
         Do **NOT** use this form to report security issues.
         See the [Security Issue reporting guidelines](https://github.com/wiremock/.github/blob/main/SECURITY.md)
 
