@@ -9,8 +9,13 @@ WireMock is a free and open source tool for building and testing mock APIs.
 WireMock frees you from dependency on unstable APIs and allows you to develop with confidence.
 It's easy to launch a mock API server and simulate a host of real-world scenarios and APIs - including REST, SOAP, OAuth2 and more.
 
-Join the community on GitHub and [Slack](https://slack.wiremock.org)!
-Also follow us on [Twitter](https://twitter.com/wiremockorg) and [LinkedIn](https://www.linkedin.com/company/wiremock/).
+What to particiupate? Join the community on [Slack](https://slack.wiremock.org)!
+Also follow us on [Twitter](https://twitter.com/wiremockorg),
+[LinkedIn](https://www.linkedin.com/company/wiremock/),
+[Mastodon](https://fosstodon.org/@wiremock)
+and [YouTube](https://www.youtube.com/@WireMockTV).
+
+Interested in contributing? Here's our [Contributor Guide](https://github.com/wiremock/community/tree/main/contributing)
 
 <!--
 
