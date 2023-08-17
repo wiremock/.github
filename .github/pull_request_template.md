@@ -8,6 +8,7 @@
 
 ## Submitter checklist
 
+- [ ] Recommended: Join [WireMock Slack](https://slack.wiremock.org/) to get any help in `#help-contributing` or a project-specific channel like `#wiremock-java`
 - [ ] The PR request is well described and justified, including the body and the references
 - [ ] The PR title represents the desired changelog entry
 - [ ] The repository's code style is followed (see the contributing guide)
