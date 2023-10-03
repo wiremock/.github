@@ -9,13 +9,27 @@ WireMock is a free and open source tool for building and testing mock APIs.
 WireMock frees you from dependency on unstable APIs and allows you to develop with confidence.
 It's easy to launch a mock API server and simulate a host of real-world scenarios and APIs - including REST, SOAP, OAuth2 and more.
 
-Want to participate? Join the community on [Slack](https://slack.wiremock.org)!
+Want to participate?
+All contributions are welcome: features and bug fixes, documentation, creating new demos and guides, cool artwork,
+spreading the word about WireMock and submitting proposals and issue reports.
+Here's our [Contributor Guide](https://github.com/wiremock/community/tree/main/contributing) where we 
+Join the community on [Slack](https://slack.wiremock.org) and the `#help-contributing` channel to get started.
+
+
+### Join us for Hacktoberfest 2023!
+
+This October we participate in Hacktoberfest - a global open source hack fest. We invite you to join us, regardless of your profile and technology stack.
+Adopt WireMock in your projects, contribute new features and fixes, improve docs, create new demos and artwork, etc.
+[Learn More...](https://wiremock.org/events/hacktoberfest/)
+
+[![WireMock in Hacktoberfest 2023](https://raw.githubusercontent.com/wiremock/community/main/events/hacktoberfest/2013/wiremock_hacktoberfest_header.png)](https://wiremock.org/events/hacktoberfest/)
+
 Also follow us on [Twitter](https://twitter.com/wiremockorg),
 [LinkedIn](https://www.linkedin.com/company/wiremock/),
 [Mastodon](https://fosstodon.org/@wiremock)
 and [YouTube](https://www.youtube.com/@WireMockTV).
 
-Interested in contributing? Here's our [Contributor Guide](https://github.com/wiremock/community/tree/main/contributing)
+
 
 <!--
 
