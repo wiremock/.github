@@ -10,6 +10,15 @@ there're opportunities to participate and help the project!
 > **NOTE:** This is a default contributing page defined on the top level of the GitHub organization.
 > Component maintainers can override it in their repositories and provide more information specifically for their projects.
 
+## Hacktoberfest 2023
+
+This October we participate in Hacktoberfest - a global open source hack fest. We invite you to join us, regardless of your profile and technology stack.
+Adopt WireMock in your projects, contribute new features and fixes, improve docs, create new demos and artwork, etc,
+asnd get Hacktoberfest and special WireMock swag. 
+[Learn More...](https://wiremock.org/events/hacktoberfest/)
+
+[![WireMock in Hacktoberfest 2023](https://raw.githubusercontent.com/wiremock/community/main/events/hacktoberfest/2013/wiremock_hacktoberfest_header.png)](https://wiremock.org/events/hacktoberfest/)
+
 ## Contributing guide
 
 - [Contributing Guidelines](https://github.com/wiremock/community/tree/main/contributing) - here you find a detailed guide for all kinds of possible contributions.
