@@ -9,7 +9,7 @@
 ## Submitter checklist
 
 - [ ] Recommended: Join [WireMock Slack](https://slack.wiremock.org/) to get any help in `#help-contributing` or a project-specific channel like `#wiremock-java`
-- [ ] Recommended: If you participate in Hacktoberfest 2023, maake sure you're [signed up](https://wiremock.org/events/hacktoberfest/) there and in the WireMock form 
+- [ ] Recommended: If you participate in Hacktoberfest 2023, make sure you're [signed up](https://wiremock.org/events/hacktoberfest/) there and in the WireMock form 
 - [ ] The PR request is well described and justified, including the body and the references
 - [ ] The PR title represents the desired changelog entry
 - [ ] The repository's code style is followed (see the contributing guide)
