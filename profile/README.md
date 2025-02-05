@@ -17,7 +17,8 @@ Join the community on [Slack](https://slack.wiremock.org) and the `#help-contrib
 
 Also follow us on [Twitter](https://twitter.com/wiremockorg),
 [LinkedIn](https://www.linkedin.com/company/wiremock/),
-[Mastodon](https://fosstodon.org/@wiremock)
+[Mastodon](https://fosstodon.org/@wiremock),
+[Bluesky](https://bsky.app/profile/wiremock.bsky.social)
 and [YouTube](https://www.youtube.com/@WireMockTV).
 
 
